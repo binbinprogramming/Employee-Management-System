@@ -1,2 +1,2 @@
 # Employee-Management-System
-Spring, Hibernate and Jersey framework
+Use Spring, Hibernate and Jersey framework
